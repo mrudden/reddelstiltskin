@@ -1,5 +1,5 @@
 # reddelstiltskin
-Firefox extension that switches 'www.reddit.com' to 'old.reddit.com'. Simple and privacy-centered, will never be sold.
+Firefox extension that redirects URLs at 'www.reddit.com' to 'old.reddit.com'. Simple and privacy-centered, will never be sold.
 
 ## Currently supports
 - redirecting 'www.reddit.com' to 'old.reddit.com'
