@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "reddelstiltskin",
+    "version": "0.1",
+  
+    "description": "Switches 'www.reddit.com' to 'old.reddit.com'. Simple and privacy-centered, will never be sold.",
+  
+    "icons": {
+      "48": "icons/icon2.png",
+      "96": "icons/icon2-96.png"
+    },
+
+    "permissions": [
+        "webRequest", "webRequestBlocking", "*://www.reddit.com/*"
+    ],
+  
+    "background": {
+        "scripts": ["reddelstiltskin.js"]
+    }
+}
